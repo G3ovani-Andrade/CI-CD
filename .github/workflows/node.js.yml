@@ -45,4 +45,3 @@ jobs:
         with:
           push: true
           tags: geovaniandrade/testeci-cd:latest
-          # dckr_pat_fbosH3_9FSjW-fzbN5LsTwGb4NA
