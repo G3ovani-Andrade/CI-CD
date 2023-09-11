@@ -44,5 +44,5 @@ jobs:
         uses: docker/build-push-action@v4
         with:
           push: true
-          tags: geovaniandrade/testeCI-CD:latest
+          tags: geovaniandrade/testeci-cd:latest
           # dckr_pat_fbosH3_9FSjW-fzbN5LsTwGb4NA
